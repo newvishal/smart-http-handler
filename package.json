@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/newvishal/smart-http-handler/issues"
   },
-  "homepage": "https://github.com/newvishal/smart-http-handler#readme"
+  "homepage": "https://github.com/newvishal/smart-http-handler#readme",
+  "dependencies": {
+    "vishal-smart-logger": "^1.0.0"
+  }
 }
